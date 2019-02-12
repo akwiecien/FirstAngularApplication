@@ -1,2 +1,0 @@
-# FirstAngularApplication
-Created with CodeSandbox
